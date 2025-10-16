@@ -5,7 +5,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 DEFAULT_TIMEOUT = 0.5
 DEFAULT_WORKERS = 100
 DEFAULT_OUTPUT = "scan_results.txt"
-hi = "hi"
 
 
 class Scanner:
